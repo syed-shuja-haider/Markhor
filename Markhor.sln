@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Markhor.Web", "Markhor\Markhor.Web.csproj", "{AE36062B-6F3C-453F-8386-380C40C076A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE36062B-6F3C-453F-8386-380C40C076A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE36062B-6F3C-453F-8386-380C40C076A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE36062B-6F3C-453F-8386-380C40C076A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE36062B-6F3C-453F-8386-380C40C076A3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {283C7C28-90A2-4ECD-AC80-0E1E24DF83DC}
+	EndGlobalSection
+EndGlobal
